@@ -238,9 +238,9 @@ Rejoignez notre Discord pour obtenir de l'aide rapide de notre équipe support !
 
 <div align="center">
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/ArakenUpload/ArakenUploadApp?style=for-the-badge&color=00ff88)
-![GitHub downloads](https://img.shields.io/github/downloads/ArakenUpload/ArakenUploadApp/total?style=for-the-badge&color=00ff88)
-![Discord](https://img.shields.io/discord/1234567890?style=for-the-badge&label=Discord&color=5865F2)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ErrorNoName/ArakenUploadApp?style=for-the-badge&color=00ff88)
+![GitHub downloads](https://img.shields.io/github/downloads/ErrorNoName/ArakenUploadApp/total?style=for-the-badge&color=00ff88)
+![Discord](https://img.shields.io/discord/Banh6njXwZ?style=for-the-badge&label=Discord&color=5865F2)
 
 </div>
 
