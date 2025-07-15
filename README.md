@@ -2,7 +2,7 @@
 
 # 🚀 Araken Upload
 
-<img src="assets/icon.png" alt="Araken Upload Logo" width="128" height="128">
+<img src="https://media.discordapp.net/attachments/1335256190413701254/1394736969870999582/PR4qq6l.png?ex=6877e586&is=68769406&hm=7db86ed279e324efb7fbab4057b1d5b52ad44487dfb95409c7e46747e612abac&=" alt="Araken Upload Logo" width="128" height="128">
 
 ### Application de partage de fichiers ultra-rapide pour Windows
 
